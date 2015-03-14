@@ -1,0 +1,7 @@
+# Packer artifacts
+*.ova
+*.box
+output-virtualbox-*
+packer_cache
+
+.vagrant
